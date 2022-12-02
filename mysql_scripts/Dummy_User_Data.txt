@@ -1,0 +1,7 @@
+email			password		SHA(password, 256)
+emma@gmail.com		password1		'0b14d501a594442a01c6859541bcb3e8164d183d32937b851835442f69d5c94e'
+andrew@gmail.com	password2		'6cf615d5bcaac778352a8f1f3360d23f02f34ec182e259897fd6ce485d7870d4'
+aditi@gmail.com		password3		'5906ac361a137e2d286465cd6588ebb5ac3f5ae955001100bc41577c3d751764'
+jessica@gmail.com	password4		'b97873a40f73abedd8d685a7cd5e5f85e4a9cfb83eac26886640a0813850122b'
+paula@gmail.com		password5		'8b2c86ea9cf2ea4eb517fd1e06b74f399e7fec0fef92e3b482a6cf2e2b092023'
+rishabh@gmail.com	password6		'598a1a400c1dfdf36974e69d7e1bc98593f2e15015eed8e9b7e47a83b31693d5'

@@ -1,0 +1,11 @@
+node_modules
+
+.DS_Store
+
+.env
+
+bin/
+
+cert/
+
+mysql_scripts/sql_scratch.sql
